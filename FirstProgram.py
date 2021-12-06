@@ -1,4 +1,4 @@
-print(3 >2)
-print(3 <=2)
-print(3 == 3)
-print(3 != 2)
+#Logical
+print(2>3 or 5>4)
+print(2<3 and 5>4)
+print(not 2>3)
