@@ -1,8 +1,8 @@
-first_Name = "Sameer"
-last_Name = "Avhad"
-age = 26
-weight = 68.9
-is_Genius = True
+first_Name = input("What is your first name? ")
+last_Name = input("What is your last name? ")
+age = input("What is your age? ")
+weight = input("What is your weight? ")
+is_Genius = input("is he genius? ")
 print(first_Name+" "+last_Name)
 print(age)
 print(weight)
