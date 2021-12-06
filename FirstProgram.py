@@ -1,4 +1,6 @@
-first = input("Enter first: ")
-second = input("Enter second: ")
-sum = int(first) + int(second)
-print(sum)
+name = "Tony Stark"
+print(name.upper())
+print(name.lower())
+print(name.find('t'))
+print(name.find('p'))
+print(name.replace(" Stark", "Shaggy"))
