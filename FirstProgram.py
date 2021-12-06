@@ -1,7 +1,11 @@
-name = "Tony Stark"
-print(name.upper())
-print(name.lower())
-print(name.find('t'))
-print(name.find('p'))
-print(name.replace(" Stark", "Shaggy"))
-print('T' in name)
+print(5+2)
+print(5-2)
+print(5*2)
+print(5/2)
+print(5//2)
+print(5%2)
+print(5 ** 2)
+i =10
+i += 1
+
+# here is a comment
